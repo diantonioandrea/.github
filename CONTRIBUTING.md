@@ -1,4 +1,4 @@
-# Andrea Di Antonio contributing guidelines
+# Contributing guidelines
 
 Guidelines inspired by [Ruby on Rails](https://github.com/rails/rails/blob/main/CONTRIBUTING.md)'.
 
