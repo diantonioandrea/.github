@@ -2,7 +2,7 @@
 
 Repository containing the default community health file for [Andrea Di Antonio](https://github.com/diantonioandrea)
 
-## Files contained
+## Files
 
 - Code of conduct
 - Contributing guidelines
