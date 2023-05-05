@@ -1,6 +1,6 @@
 # .github
 
-Repository containing the default community health file for [diantonioandrea](https://github.com/diantonioandrea)
+Repository containing the default community health file for [diantonioandrea](https://github.com/diantonioandrea).
 
 ## Files
 
